@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ParallelFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}

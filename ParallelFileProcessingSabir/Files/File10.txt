@@ -1,0 +1,26 @@
+﻿error 
+
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
+lFileProcessingSabir.Files
+{
+    class File9
+    {
+    }
+}
